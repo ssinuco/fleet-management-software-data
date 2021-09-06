@@ -1,0 +1,17 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_uploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "pg": "^8.6.0",
+    "pg-cursor": "^2.6.0"
+  }
+}
